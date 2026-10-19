@@ -39,7 +39,7 @@ Windows 10 / 11（64ビット）対応。
 - 右上の <img src="assets/history.png" width="18" height="18" alt="履歴">（履歴）を押すと、過去の戦闘を開けます。
 - 閉じるボタンはウィンドウを隠します。Windowsの通知領域にあるZX Meterのアイコンから再表示できます。
 - 自動起動は、通知領域のメニューの「Windows起動時に開始」で変更します。
-- 履歴の左にある <img src="assets/transparency.png" width="18" height="18" alt="透明度"> を押すと、「少し透ける → さらに透ける → 透けない」の順に切り替わります。
+- 履歴の左にある <img src="assets/transparency.png" width="18" height="18" alt="透明度"> で透過のオン／オフを切り替えます。半透明のときはアイコンが光ります。
 - 表示アプリを終了する場合も、通知領域のメニューを使います。
 
 ## 更新
