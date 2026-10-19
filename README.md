@@ -5,9 +5,7 @@
 >
 > **サポートは行いません。** ゲームのアップデートなどにより、予告なく利用できなくなる場合があります。動作の継続や修正・更新は保証しません。
 
-<img src="assets/icon.svg" width="80" height="80" alt="ZX Meter">
-
-# ZX Meter for AION2
+# <img src="assets/icon.svg" width="36" height="36" align="absmiddle" alt=""> ZX Meter for AION2
 
 AION2用のDPSメーターです。戦闘中のDPSを表示し、戦闘後にスキル内訳やバフの維持率を確認できます。
 
@@ -29,7 +27,7 @@ Windows 10 / 11（64ビット）対応。
 
 ダウンロードしたEXEを実行し、Windowsの管理者確認を許可してください。
 
-導入後はPC起動時に受信サービスが、Windowsへのログイン時に表示アプリが起動します。ゲーム内で戦闘に参加すると計測を始めます。
+インストール後は自動で起動します。
 
 ## 基本操作
 
