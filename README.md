@@ -1,10 +1,8 @@
-<p><img src="docs/assets/mark.svg" width="64" height="64" alt="ZX Meter"></p>
-
 # ZX Meter for AION2
 
 AION2用のDPSメーターです。戦闘中のDPSを表示し、戦闘後にスキル内訳やバフの維持率を確認できます。
 
-[Windows版をダウンロード](https://github.com/rickyzx01/zx-meter-releases/releases/latest/download/ZXMeterForAION2.exe) · [使い方](https://rickyzx01.github.io/zx-meter-releases/) · [更新履歴](https://github.com/rickyzx01/zx-meter-releases/releases)
+[Windows版をダウンロード](https://github.com/rickyzx01/zx-meter-releases/releases/latest/download/ZXMeterForAION2.exe) · [更新履歴](https://github.com/rickyzx01/zx-meter-releases/releases)
 
 Windows 10 / 11（64ビット）対応。
 
