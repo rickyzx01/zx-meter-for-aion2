@@ -9,10 +9,6 @@
 
 AION2用のDPSメーターです。戦闘中のDPSを表示し、戦闘後にスキル内訳やバフの維持率を確認できます。
 
-[Windows版をダウンロード](https://github.com/rickyzx01/zx-meter-releases/releases/latest) · [更新履歴](https://github.com/rickyzx01/zx-meter-releases/releases)
-
-Windows 10 / 11（64ビット）対応。
-
 ## 機能
 
 - プレイヤー別のDPS・与ダメージ・ダメージ割合を表示
@@ -22,6 +18,12 @@ Windows 10 / 11（64ビット）対応。
 - 前面固定、透明度、自動起動の切り替え
 
 戦闘の記録と解析はPC内で行います。
+
+## ダウンロード
+
+[Windows版をダウンロード](https://github.com/rickyzx01/zx-meter-releases/releases/latest) · [更新履歴](https://github.com/rickyzx01/zx-meter-releases/releases)
+
+Windows 10 / 11（64ビット）対応。
 
 ## インストール
 
