@@ -19,6 +19,12 @@ AION2用のDPSメーターです。戦闘中のDPSを表示し、戦闘後にス
 
 戦闘の記録と解析はPC内で行います。
 
+![戦闘中の計測と並べ替え](assets/usage-combat.gif)
+
+![プレイヤー詳細](assets/usage-detail.png)
+
+![計測画面](assets/usage-resident.png)
+
 ## ダウンロード
 
 [Windows版をダウンロード](https://github.com/rickyzx01/zx-meter-for-aion2/releases/latest) · [更新履歴](https://github.com/rickyzx01/zx-meter-for-aion2/releases)
