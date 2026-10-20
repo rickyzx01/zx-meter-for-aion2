@@ -27,8 +27,6 @@ AION2用のDPSメーターです！プレイヤーごとのDPS・与ダメージ
 
 ![プレイヤー詳細（タルタン戦・突撃姿勢の区間を選択）](assets/usage-detail.png)
 
-![バクロン戦の計測画面](assets/usage-resident.png)
-
 ## ダウンロード
 
 [リリースページ](https://github.com/rickyzx01/zx-meter-for-aion2/releases/latest) · Windows 10 / 11（64ビット）
