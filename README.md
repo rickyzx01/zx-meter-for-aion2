@@ -23,6 +23,12 @@ AION2用のDPSメーターです！プレイヤーごとのDPS・与ダメージ
 
 そのほか、前面固定・半透明表示・Windows起動時の自動起動機能つき！
 
+## 使用イメージ
+
+![バクロン戦の計測画面](assets/usage-resident.png)
+
+バクロン戦の実測データです。プレイヤー名はクラス名に置き換えています。
+
 ## ダウンロード
 
 [リリースページ](https://github.com/rickyzx01/zx-meter-releases/releases/latest) · Windows 10 / 11（64ビット）
