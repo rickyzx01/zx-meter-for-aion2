@@ -29,7 +29,8 @@ AION2用のDPSメーターです！プレイヤーごとのDPS・与ダメージ
 
 ## ダウンロード
 
-[リリースページ](https://github.com/rickyzx01/zx-meter-for-aion2/releases/latest) · Windows 10 / 11（64ビット）
+[リリースページ](https://github.com/rickyzx01/zx-meter-for-aion2/releases/latest) から最新のインストーラーをダウンロードしてください
+· Windows 10 / 11（64ビット）
 
 ## インストール
 
