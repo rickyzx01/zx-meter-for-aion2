@@ -24,7 +24,7 @@ AION2用のDPSメーターです！プレイヤーごとのDPS・与ダメージ
 
 そのほか、前面固定・3段階の透明度切り替え・Windows起動時の自動起動機能つき！
 
-![戦闘中の順位とDPSの変化（バクロン戦）](assets/usage-combat.gif)
+![戦闘中の順位とDPSの変化（バクロン戦）](assets/usage-combat-v110.gif)
 
 ![プレイヤー詳細（タルタン戦・突撃姿勢の区間を選択）](assets/usage-detail.png)
 
